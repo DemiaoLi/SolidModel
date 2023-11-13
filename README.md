@@ -19,7 +19,7 @@
 
 # 使用方法
 在main函数中，我定义了四个数字实体：   
-<img width="366" alt="截屏2023-11-13 15 57 10" src="https://github.com/DemiaoLi/SolidModel/assets/107128424/26ea1ee8-9ce1-41e1-a1ce-d96de050ef13">
+<img width="366" alt="截屏2023-11-13 15 57 10" src="https://github.com/DemiaoLi/SolidModel/assets/107128424/26ea1ee8-9ce1-41e1-a1ce-d96de050ef13">   
 我们可以在drawSolidModel函数中以任意顺序传入若干个，他可以按照传入的顺序进行显示   
-<img width="412" alt="截屏2023-11-13 15 57 52" src="https://github.com/DemiaoLi/SolidModel/assets/107128424/9a53ed8e-690e-4cf6-a475-62cdea9e013a">
+<img width="412" alt="截屏2023-11-13 15 57 52" src="https://github.com/DemiaoLi/SolidModel/assets/107128424/9a53ed8e-690e-4cf6-a475-62cdea9e013a">   
 我们可以在Example.cpp中看到四个实体的构造过程，其中数字0，8是完全通过欧拉操作构造；1，5通过结合sweep扫成操作构建   
